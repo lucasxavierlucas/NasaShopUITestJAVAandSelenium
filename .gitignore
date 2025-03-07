@@ -1,0 +1,17 @@
+# Ignore the target directory
+/target
+
+# Ignore IDE-specific settings
+.idea/
+*.iml
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore dependencies managed by build tools
+*.jar
+*.war
